@@ -106,4 +106,5 @@ const Footer = () => {
     );
 };
 
-export default App;
+export default App; // Este comentario fuerza un redeploy en Vercel
+
